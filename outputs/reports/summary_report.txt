@@ -1,0 +1,15 @@
+Climate Trend Analyzer - Summary Report
+======================================
+
+Average Temperature: 25.24 °C
+Average Rainfall: 86.17 mm
+Average CO2: 399.92 ppm
+Average Sea Level: 5.24 mm
+Total Records: 1500
+
+Key Insights:
+1. Average temperature changed by 3.55 °C across the observed timeline.
+2. Average CO₂ level changed by 57.82 ppm across the observed timeline.
+3. South is the warmest region on average in the selected view.
+4. West shows the highest rainfall variability.
+5. The highest anomaly concentration was observed in 2002 with 4 flagged records.
