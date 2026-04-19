@@ -152,7 +152,7 @@ git push -u origin main
 
 ---
 
-## **🧪 K. Virtual Simulation **
+## **🧪 K. Virtual Simulation**
 ---
 
 Since real climate systems are not accessible, this project uses virtual simulation to mimic real-world data behavior.
@@ -183,7 +183,7 @@ Use this dataset for full analysis pipeline.
 
 ---
 
-## **📅 L. Commit Strategy **
+## **📅 L. Commit Strategy**
 ---
 
 To make the project look structured and realistic on GitHub:
